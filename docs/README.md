@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /logo.png
-actionText: 进入 →
+actionText: 随便看看 →
 actionLink: /appCode/
 features:
 - title: 简介
